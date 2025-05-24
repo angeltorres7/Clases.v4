@@ -39,3 +39,9 @@ cuenta_principal.get_imagen()
 
 cuenta_principal.set_imagen("Master chief")
 cuenta_principal.get_imagen()
+
+
+#El código define una clase cuenta_xbox con atributos privados para gamertag, juegos e imagen, y métodos para obtener y modificar esos valores. Se crea una instancia llamada cuenta_principal con datos iniciales, luego se usan los métodos para mostrar y actualizar esos datos. 
+
+#Torres Pérez Roberto Angel 
+
